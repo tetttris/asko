@@ -1,18 +1,18 @@
 site: Asko
-url: #yoururl
+url: https://tetttris.github.io/asko/
 title: Asko
 description: Simple and minimalistic jekyll blogging theme.
 googlewebfonts: Fira+Code:wght@400;500;700
 twitter:
-  username: #yourusername
+  username: @tetttris
   card: summary
-  creator: #yourusername
+  creator: Thomas Lynch
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: @dftvia
+  name: Thomas Lynch
   avatar:
-  email: #youremail
-  url: #yoururl
+  email: dftvia@gmail.com
+  url: https://tetttris.github.io/asko/#
 permalink: pretty
 
 baseurl: ""
