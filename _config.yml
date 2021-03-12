@@ -12,10 +12,10 @@ author:
   name: Thomas Lynch
   avatar:
   email: dftvia@gmail.com
-  url: https://tetttris.github.io/asko/#
+  url: https://tetttris.github.io/
 permalink: pretty
 
-baseurl: ""
+baseurl: "https://tetttris.github.io/asko/"
 
 highlighter: rouge
 
