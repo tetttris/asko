@@ -1,21 +1,21 @@
-site: Dftvia
-url: http://dftvia.tk/
-title: Dftvia
-description: Future Blog.
+site: Asko
+url: #yoururl
+title: Asko
+description: Simple and minimalistic jekyll blogging theme.
 googlewebfonts: Fira+Code:wght@400;500;700
 twitter:
-  username: @dftvia
+  username: #yourusername
   card: summary
-  creator: Thomas Lynch
+  creator: #yourusername
 author:
-  twitter: @tetttris
-  name: Thomas Lynch
+  twitter: #yourusername
+  name: #yourusername
   avatar:
-  email: dftvia@gmail.com
-  url: http://dftvia.tk/
+  email: #youremail
+  url: #yoururl
 permalink: pretty
 
-baseurl: "http://dftvia.tk/"
+baseurl: ""
 
 highlighter: rouge
 
